@@ -29,7 +29,7 @@ You can deploy this template to Vercel with the button below:
 You can also clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app liftoff --example "https://github.com/metanetica/ai_interview/"
+npx create-next-app metainerview --example "https://github.com/metanetica/ai_interview/"
 ```
 
 ## Tech Stack + Features
